@@ -1,4 +1,4 @@
-const API_URL="http://localhost:8080/api";
+const API_URL = "/api";
 function token(){return localStorage.getItem("stockflow_token")}
 function user(){try{return JSON.parse(localStorage.getItem("stockflow_user"))}catch{return null}}
 function saveSession(d){localStorage.setItem("stockflow_token",d.token);localStorage.setItem("stockflow_user",JSON.stringify({id:d.id,username:d.username,role:d.role}));return user()}
