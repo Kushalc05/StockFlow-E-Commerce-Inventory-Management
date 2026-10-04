@@ -262,9 +262,9 @@ Spring Security Authorization
 | View Products | ✅ | ✅ |
 | Add Product | ✅ | ❌ |
 | Delete Product | ✅ | ❌ |
-| Cart Operations | ✅ | ✅ |
-| Place Orders | ✅ | ✅ |
-| View Own Orders | ✅ | ✅ |
+| Cart Operations | ❌ | ✅ |
+| Place Orders | ❌ | ✅ |
+| View Own Orders | ❌ | ✅ |
 
 ---
 
