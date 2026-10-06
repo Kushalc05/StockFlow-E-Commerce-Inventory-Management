@@ -145,29 +145,23 @@ The application follows a layered backend architecture:
 
 ### Customer Experience
 
-#### Login
-![StockFlow Login](docs/screenshots/login-page.png)
+| Login | Product Catalog |
+|---|---|
+| ![Login](docs/screenshots/login-page.png) | ![Product Catalog](docs/screenshots/product-catalog.png) |
 
-#### Product Catalog
-![StockFlow Product Catalog](docs/screenshots/product-catalog.png)
-
-#### Shopping Cart
-![StockFlow Customer Cart](docs/screenshots/customer-cart.png)
-
-#### Order History
-![StockFlow Order History](docs/screenshots/customer-order-history.png)
-
+| Shopping Cart | Order History |
+|---|---|
+| ![Cart](docs/screenshots/customer-cart.png) | ![Order History](docs/screenshots/customer-order-history.png) |
 
 ### Admin Experience
 
-#### Admin Dashboard
-![StockFlow Admin Dashboard](docs/screenshots/admin-dashboard.png)
+| Admin Dashboard | Product Catalog Management |
+|---|---|
+| ![Admin Dashboard](docs/screenshots/admin-dashboard.png) | ![Admin Products](docs/screenshots/admin-product-catalog.png) |
 
-#### Product Catalog Management
-![StockFlow Admin Product Catalog](docs/screenshots/admin-product-catalog.png)
-
-#### Inventory Control
-![StockFlow Admin Inventory Control](docs/screenshots/admin-inventory-control.png)
+| Inventory Control |
+|---|
+| ![Inventory Control](docs/screenshots/admin-inventory-control.png) |
 
 
 ##  Project Structure
