@@ -2,6 +2,12 @@
 
 A full-stack e-commerce and inventory management application built using **Java and Spring Boot**.
 
+[![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/java/) 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-brightgreen)](https://spring.io/projects/spring-boot)  
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)  
+[![REST API](https://img.shields.io/badge/REST%20API-Backend-blue)](https://spring.io/)  
+[![Railway](https://img.shields.io/badge/Railway-Deployed-purple)](https://railway.app/)  
+
 The application provides product and inventory management, user authentication, role-based authorization, shopping cart functionality, checkout, and order management through RESTful APIs and a responsive web interface.
 
 ---
@@ -135,6 +141,34 @@ The application follows a layered backend architecture:
 | **Exception** | Provides centralized application error handling |
 
 ---
+## 📸 Application Screenshots
+
+### Customer Experience
+
+#### Login
+![StockFlow Login](docs/screenshots/login-page.png)
+
+#### Product Catalog
+![StockFlow Product Catalog](docs/screenshots/product-catalog.png)
+
+#### Shopping Cart
+![StockFlow Customer Cart](docs/screenshots/customer-cart.png)
+
+#### Order History
+![StockFlow Order History](docs/screenshots/customer-order-history.png)
+
+
+### Admin Experience
+
+#### Admin Dashboard
+![StockFlow Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+#### Product Catalog Management
+![StockFlow Admin Product Catalog](docs/screenshots/admin-product-catalog.png)
+
+#### Inventory Control
+![StockFlow Admin Inventory Control](docs/screenshots/admin-inventory-control.png)
+
 
 ##  Project Structure
 
